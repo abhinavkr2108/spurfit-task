@@ -7,6 +7,7 @@ import MeetAheadApp from "./components/MeetAheadApp";
 import SelfImprovement from "./components/SelfImprovement";
 import BestWithEq from "./components/BestWithEq";
 import EverWonder from "./components/EverWondered";
+import StartTest from "./components/StartTest";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <SelfImprovement />
       <BestWithEq />
       <EverWonder />
+      <StartTest />
     </>
   );
 }
